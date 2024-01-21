@@ -7,14 +7,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-<script src="../links/java1-functions.js"></script>
+<script src="./links/java1-functions.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Work+Sans:wght@500&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Playfair+Display&family=Work+Sans:wght@500&display=swap" rel="stylesheet">
-<link rel="icon" href="../assets/logos/svg/AJBB.png" image>
+<link rel="icon" href="./assets/logos/svg/AJBB.png" image>
 <title>Ardens Journal</title>
 </head>
 
@@ -25,7 +25,7 @@
     <div class="header">
 
     <div class="logo">
-      <img id="logo" src="./assets/logos/svg/aj.svg" height="75rem">
+      <img id="logo" src="./assets/logos/svg/AJBB.png" height="75rem">
     </div>
 
   
@@ -48,22 +48,22 @@
 
         <li><button id="homeButton">Home</button></li>
         <ul id="menu" class="collapsed">
-          <li><button class="button-menu"><a href="./1home1-mainpage.html">Home</a></button></li>
-          <li><button class="button-menu"><a href="./1home2-about-us.html">About Us</a></button></li>
-          <li><button class="button-menu"><a href="./1home3-resume.html">Owners Resume</a></button></li>
-          <li><button class="button-menu"><a href="./1home4-hobbies.html">Owners Hobbies</a></button></li>
+          <li><button class="button-menu"><a href="./1-mainpages/1home1-mainpage.html">Home</a></button></li>
+          <li><button class="button-menu"><a href="./1-mainpages/1home2-about-us.html">About Us</a></button></li>
+          <li><button class="button-menu"><a href="./1-mainpages/1home3-resume.html">Owners Resume</a></button></li>
+          <li><button class="button-menu"><a href="./1-mainpages/1home4-hobbies.html">Owners Hobbies</a></button></li>
         </ul>
 
         <li><button id="aboutusButton">Unlock Your Potential</button></li>
         <ul id="aboutusMenu" class="aboutusCollapsed">
-          <li><button class="button-aboutus"><a href="./2potential1-programing.html">  Program Mastery </a></button></li>
+          <li><button class="button-aboutus"><a href="./2-secondarypages/21-programing-12rules.html">  Program Mastery </a></button></li>
           <li><button class="button-aboutus">Economic Mastery</button></li>
           <li><button class="button-aboutus">Accounting Mastery</button></li>
         </ul>
 
         <li><button id="politicsButton">Politics</button></li>
         <ul id="politicsMenu" class="politicsCollapsed">
-          <li><button class="button-politics"> <a href="./3politics1-israelToday.html">Israel Today</a> </button></li>
+          <li><button class="button-politics"> <a href="./2-secondarypages/31swordsOfIron.html">Israel Today</a> </button></li>
           <li><button class="button-politics">Israel History</button></li>
           <li><button class="button-politics">The News Around the World </button></li>
         </ul>
@@ -86,7 +86,7 @@
 
 <div>
   <h2 id="ajlinkh">
-<a id="ajlink" href="./1-mainpages/1home1-mainpage.html"> Ardens Journal </a>
+<a id="ajlink" href="./1home1-mainpage.html"> Ardens Journal </a>
  </h2>
 </div>
 
@@ -100,7 +100,7 @@
     <section id="first">
       <article class="ad-container">
         <div class="video-container">
-        <video id="video" src="./assets/Kaiber/videos/hacker/asherhacksblack.mp4" autoplay loop>About Us</video>
+        <video id="video" src="./1-mainpages/1home1-mainpage.html" autoplay loop>About Us</video>
       </div>
 
         <h2>Discover Your Passion for Adventure - Learn Programming</h2>
