@@ -24,7 +24,7 @@
 
 <div>
   <h2 id="ajlinkh">
-<a id="ajlink" href="./1home1-mainpage.html"> Ardens Journal </a>
+<a id="ajlink" href="./webpages/1-mainpages/1home1-mainpage.html"> Ardens Journal </a>
  </h2>
 </div>
 
