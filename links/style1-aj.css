@@ -1164,7 +1164,7 @@ header {
 height: 6.5rem;
 animation: myAnimation 4s infinite;
 margin-top: -1.5rem;
-margin-left: 4rem;
+margin-left: 6rem;
 }
 
 @keyframes myAnimation {
@@ -1196,7 +1196,6 @@ nav ul {
 
 .search-bar {
   background-color: rgba(197, 168, 0, 0.871);
-  width: fit;
   position: absolute;
   margin-right: 38rem;
   border-top: 0.3rem rgb(80, 80, 80) solid;
@@ -1212,7 +1211,7 @@ nav ul {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
-  width: 27rem;
+  width: 20rem;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.2rem;
@@ -1223,7 +1222,7 @@ nav ul {
 }
 
 #searchButton {
-  margin-left: 11rem;
+  margin-left: 7rem;
   margin-bottom: 0.1rem;
   font-size: 1.3rem;
   width: fit-content;
@@ -1283,8 +1282,9 @@ button:hover {
   background-color: rgba(197, 168, 0, 0.871);
   color: #f2f2f2;
   position: relative;
-  width: 6.4rem;
+  width: 5.1rem;
   height: 5rem;
+  font-size: 1rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-decoration: underline;
   cursor: pointer;
@@ -1336,7 +1336,8 @@ button:hover {
   background-color: rgba(197, 168, 0, 0.871);
   color: #f2f2f2;
   position: relative;
-  width: 6.4rem;
+  font-size: 1rem;
+  width: 5.2rem;
   height: 5rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-decoration: underline;
@@ -1389,7 +1390,8 @@ button:hover {
   background-color: rgba(197, 168, 0, 0.871);
   color: #f2f2f2;
   position: relative;
-  width: 6.4rem;
+  font-size: 1rem;
+  width: 5.2rem;
   height: 5rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-decoration: underline;
@@ -1442,7 +1444,8 @@ button:hover {
   background-color: rgba(197, 168, 0, 0.871);
   color: #f2f2f2;
   position: relative;
-  width: 6.4rem;
+  font-size: 1rem;
+  width: 5.2rem;
   height: 5rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-decoration: underline;
@@ -1540,7 +1543,7 @@ button:hover {
 .aj {
   border-bottom: 0.1rem solid #333;
     color: #333;
-    font-size: 2.5rem;
+    font-size: rem;
     margin-bottom: 0rem;
     font-family: 'Playfair Display', serif;
     font-family: 'Work Sans', sans-serif;
