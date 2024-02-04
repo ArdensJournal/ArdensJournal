@@ -1152,7 +1152,7 @@ header {
 
  .ardens-journal {
   position: absolute;
-  margin-left: 19rem;
+  margin-left: 15rem;
 }
 
 .logo {
@@ -1164,7 +1164,7 @@ header {
 height: 6.5rem;
 animation: myAnimation 4s infinite;
 margin-top: -1.5rem;
-margin-left: 6rem;
+margin-left: 11rem;
 }
 
 @keyframes myAnimation {
@@ -1181,7 +1181,7 @@ nav{
   position: absolute;
   justify-content: end;
   margin-inline-end: 0rem;
-  margin-top: 10rem;
+  margin-top: 10.8rem;
 }
 
 nav ul {
