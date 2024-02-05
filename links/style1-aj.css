@@ -1053,7 +1053,7 @@ h2#hobbies {
 
 
 /* Media query for smaller screens */
-@media (max-width: 600px) {
+@media (max-width: 414px) {
   /* general */
 
 a {
@@ -1284,7 +1284,7 @@ button:hover {
   position: relative;
   width: 5.1rem;
   height: 5rem;
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-decoration: underline;
   cursor: pointer;
@@ -1336,7 +1336,7 @@ button:hover {
   background-color: rgba(197, 168, 0, 0.871);
   color: #f2f2f2;
   position: relative;
-  font-size: 1rem;
+  font-size: 0.9rem;
   width: 5.2rem;
   height: 5rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -1390,7 +1390,7 @@ button:hover {
   background-color: rgba(197, 168, 0, 0.871);
   color: #f2f2f2;
   position: relative;
-  font-size: 1rem;
+  font-size: 0.9rem;
   width: 5.2rem;
   height: 5rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -1444,7 +1444,7 @@ button:hover {
   background-color: rgba(197, 168, 0, 0.871);
   color: #f2f2f2;
   position: relative;
-  font-size: 1rem;
+  font-size: 0.9rem;
   width: 5.2rem;
   height: 5rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
