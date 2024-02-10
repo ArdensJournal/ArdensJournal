@@ -1740,7 +1740,13 @@ main {
 /* Aside - More Articles - Second */
 
 aside {
-  margin-top: 60rem;
+  margin-top: 62rem;
+  position: absolute;
+  width: 98%;
+}
+
+aside#home {
+  margin-top: 65rem;
   position: absolute;
   width: 98%;
 }
