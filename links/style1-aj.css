@@ -1581,11 +1581,22 @@ main {
   margin-top: 0.2rem;
 }
 
+#mainmain {
+  margin-top: 0rem;
+  padding-top: 10rem;
+  padding-bottom: -100rem;
+}
+
 /*Body - Main - First Article */
 
 #first {
   width: 100%;
   margin-bottom: 65rem;
+}
+
+#firstmain {
+  width: 100%;
+  margin-bottom: 58rem;
 }
 
 #first-ar {
@@ -1729,7 +1740,7 @@ main {
 /* Aside - More Articles - Second */
 
 aside {
-  margin-top: 58rem;
+  margin-top: 60rem;
   position: absolute;
   width: 98%;
 }
@@ -1745,7 +1756,6 @@ aside {
 #more {
   text-align: center;
   color: #0c0c0c;
-    margin-bottom: 0rem;
     font-family: 'Playfair Display', serif;
     font-family: 'Work Sans', sans-serif;
     text-decoration-line: underline;
@@ -1779,7 +1789,6 @@ aside {
 
 footer {
   background-color: #adeef9;
-  margin-top: 1.75rem;
   text-align: center;
   border-top: 0.5rem whitesmoke solid;
   border-left: 0.5rem whitesmoke solid;
