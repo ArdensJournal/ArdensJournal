@@ -1544,8 +1544,7 @@ button:hover {
 .aj {
   border-bottom: 0.1rem solid #333;
     color: #333;
-    font-size: rem;
-    margin-bottom: 0rem;
+    margin-bottom: -8rem;
     font-family: 'Playfair Display', serif;
     font-family: 'Work Sans', sans-serif;
   }
@@ -1603,6 +1602,7 @@ main {
  width: 100%;
  margin-bottom: 1.2rem;
 }
+
 
 /* Body - Main - First Article - Video */
 
@@ -1746,7 +1746,6 @@ aside {
 }
 
 aside#home {
-  margin-top: 65rem;
   position: absolute;
   width: 98%;
 }
