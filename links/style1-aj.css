@@ -1053,7 +1053,7 @@ h2#hobbies {
 
 
 /* Media query for smaller screens */
-@media (max-width: 414px) {
+@media (min-width: 414px) and (min-height: 896px) {
   /* general */
 
 a {
